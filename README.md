@@ -1,2 +1,2 @@
 # android-mini-trip
-This is the final project for the mobile programming class (android). The app called as mini trip, which function to manage the travel itenary. The user target of this application is for person (especially employee) who possibly does several business trip on short period.
+This is the final project for the mobile programming class (android) on 6th semester of undergraduate. The app called as mini trip, which function to manage the travel itenary. The user target of this application is for person (especially employee) who possibly does several business trip on short period. The final presentation of this project can be found on power ppt file (however, it written in Korean, please look at the screencapture on the slides for reference)
