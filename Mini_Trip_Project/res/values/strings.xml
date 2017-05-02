@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Mini Trip</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_mini_trip">MiniTrip</string>
+
+</resources>
